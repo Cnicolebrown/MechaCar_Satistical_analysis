@@ -12,8 +12,10 @@ o	The R squared values is equal to 0.7119, this is indicative of the data being 
 
 ## Summary Statistics on Suspension Coils
 # Total Summary
- ![image](https://user-images.githubusercontent.com/103790879/182506141-34f76c9e-3a18-4dfc-b92c-c51ec4625459.png)
-
+Mean:1498.78
+Median:1500
+Variance: 62.29356
+SD:7.892627
 # Summary by lot number
 *Note: this is the mean, median, variance, SD separated by lot. 
  ![image](https://user-images.githubusercontent.com/103790879/182505970-e045b5a7-53f6-4aa2-8837-bee7ab6de5ca.png)
