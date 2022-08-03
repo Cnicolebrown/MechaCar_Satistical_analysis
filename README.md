@@ -1,7 +1,8 @@
 # MechaCar_Satistical_analysis
 
 ## Linear Regression to Predict MPG
- 
+ ![image](https://user-images.githubusercontent.com/103790879/182505932-ae359329-7767-499f-aa34-84bfe0b7b63f.png)
+
 •	Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? 
 o	MPG, Vehicle length, ground clearance all have values that are greater than 0.05 meaning they acre at a 95% confidence level. This indicates that these are the nonrandom and are statistically significant. 
 •	Is the slope of the linear model considered to be zero? Why or why not?
@@ -12,14 +13,17 @@ o	The R squared values is equal to 0.7119, this is indicative of the data being 
 ## Summary Statistics on Suspension Coils
 # Total Summary
  
+![image](https://user-images.githubusercontent.com/103790879/182505959-e0b9cab6-1c88-4e4c-bfe0-146ce31a3e24.png)
 
 # Summary by lot number
 *Note: this is the mean, median, variance, SD separated by lot. 
- 
+ ![image](https://user-images.githubusercontent.com/103790879/182505970-e045b5a7-53f6-4aa2-8837-bee7ab6de5ca.png)
+
 •	The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 All cars meet the requirements with the exception of lot 3 which exceeds the design specifications. Lot 3 is greater than 100 due to its variance being 170.28.  
 ## T-Tests on Suspension Coils
- 
+ ![image](https://user-images.githubusercontent.com/103790879/182506000-cee620e6-5ff9-49a0-8a78-a14226c23de0.png)
+
 Based on the above T test, all the lots appear to display normal distribution. This means they are all statistically significant and the null hypothesis can be rejected. 
 
 ## Study Design: MechaCar vs Competition. 
